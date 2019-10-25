@@ -1,0 +1,8 @@
+min_eff_temp;max_eff_temp;min_mass;max_mass;min_rad;max_rad;min_lum;max_lum;percen_main_seq;color;class
+30000;;16;;6,6;;30000;;0,0000003;blue;O
+10000;30000;2,1;16;1,8;6,6;25000;30000;0,0013;deep_blue_white;B
+7500;10000;1,4;2,1;1,4;1,8;5;25;0,006;blue_white;A
+6000;7500;1,04;1,4;1,15;1,4;1,5;5;0,03;white;F
+5200;6000;0,8;1,04;0,96;1,15;0,6;1,5;0,076;yellowish_white;G
+3700;5200;0,45;0,8;0,7;0,96;0,08;0,6;0,121;pale_yellow_orange;K
+2400;3700;0,08;0,7;;0,7;;0,08;0,7645;light_orange_red;M
